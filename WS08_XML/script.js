@@ -1,4 +1,6 @@
 // Workshop 08: Parsing XML with JavaScript
+// GitHub repository: https://github.com/cosminaa2015-ui/Web-dev-1
+// Workshop folder: WS08_XML
 // OpenWeatherMap API key
 const WEATHER_API_KEY = "YOUR_API_KEY";
 // Exercise 1: Fetch raw XML weather data
